@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="airflow-census-jeetendra",
     license="MIT",
-    version="0.0.1",
+    version="0.0.2",
     description="This is the project to ingest data from densu API",
     author="Jeetendra Shakya",
     packages=find_packages(),
